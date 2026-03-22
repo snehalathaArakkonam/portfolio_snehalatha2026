@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website
+# MY LATEST PERSONAL PORTFOLIO WEBSITE
 
 This is my personal portfolio website showcasing my projects, skills, and achievements.
 
@@ -17,8 +17,10 @@ I am passionate about web development and building creative projects.
 - Contact section
 - Clean UI
 
-## 🔗 Live Website
-( file:///C:/Users/HP/Downloads/snehalatha-portfolio-final%20(3).html )
+## 🔗 Live Website (CLICK THE LINK)
+       
+        
+🌐 https://snexpf.netlify.app/
 
 ## 📌 GitHub Repository
 https://github.com/snehalathaArakkonam/portfolio_snehalatha2026
