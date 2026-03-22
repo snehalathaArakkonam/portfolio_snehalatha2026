@@ -18,7 +18,7 @@ I am passionate about web development and building creative projects.
 - Clean UI
 
 ## 🔗 Live Website
-( http://127.0.0.1:5500/portfolio2026.html )
+( file:///C:/Users/HP/Downloads/snehalatha-portfolio-final%20(3).html )
 
 ## 📌 GitHub Repository
 https://github.com/snehalathaArakkonam/portfolio_snehalatha2026
